@@ -3,3 +3,6 @@ Binaries/Win64/HeroesFromGaul.exe
 Binaries/Win64/HeroesFromGaul.exp
 Binaries/Win64/HeroesFromGaul.pdb
 Content/Levels/MainMenuLevel_BuiltData.uasset
+Intermediate/Build/Win64/HeroesFromGaul/Development/Core/SharedPCH.Core.h.pch
+Saved/Cooked/WindowsNoEditor/HeroesFromGaul/Content/Levels/MainLevel_BuiltData.ubulk
+Saved/Cooked/WindowsNoEditor/HeroesFromGaul/Content/Levels/MainMenuLevel_BuiltData.ubulk

@@ -1,0 +1,40 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "08F09DFBAD11237283B8A99B420863C70E488836",
+			"Assets": [
+				"/Game/Levels/MainLevel",
+				"/Game/Levels/MainMenuLevel"
+			]
+		},
+		{
+			"ShaderMapHash": "D7A359211A1A0A550E3079AF8818529F1C04FB47",
+			"Assets": [
+				"/Game/Levels/MainLevel",
+				"/Game/Levels/MainMenuLevel"
+			]
+		},
+		{
+			"ShaderMapHash": "C682444B6930AE0DE8EED6E35C4D70850FBCB5F9",
+			"Assets": [
+				"/Game/Levels/MainLevel",
+				"/Game/Levels/MainMenuLevel"
+			]
+		},
+		{
+			"ShaderMapHash": "8C046F0060E05496B4A0E9EFBC2ADEED5152DFB5",
+			"Assets": [
+				"/Game/Levels/MainLevel",
+				"/Game/Levels/MainMenuLevel"
+			]
+		},
+		{
+			"ShaderMapHash": "15454E8EB034BF580734CF2216D1CF01BD14D3D6",
+			"Assets": [
+				"/Game/Levels/MainLevel",
+				"/Game/Levels/MainMenuLevel"
+			]
+		}
+	]
+}
